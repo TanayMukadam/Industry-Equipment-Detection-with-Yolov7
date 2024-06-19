@@ -1,0 +1,1 @@
+# Industry-Equipment-Detection-with-Yolov7

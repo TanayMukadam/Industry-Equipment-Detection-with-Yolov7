@@ -14,10 +14,9 @@ Deployment Ready: Easily deployable on edge devices and cloud platforms, making 
 Installation
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/construction-equipment-detection-yolov7.git
-cd construction-equipment-detection-yolov7
+## Install Yolov7 from their official website.
+
+https://github.com/WongKinYiu/yolov7
 
 ## Install dependencies:
 
